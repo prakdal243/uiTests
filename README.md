@@ -1,6 +1,3 @@
 # uiTests
 
 test
-
-
-test
